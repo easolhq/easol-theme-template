@@ -14,4 +14,4 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       - name: Canvas Lint
-        uses: easolhq/canvas-linter-action@v1.1.0
+        uses: easolhq/canvas-linter-action@v1.1.2
