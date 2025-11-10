@@ -1,0 +1,11 @@
+{
+  "key": "placeholder_custom_type",
+  "name": "Placeholder Custom Type",
+  "attributes": [
+    {
+      "name": "a_string",
+      "type": "string",
+      "label": "A string"
+    }
+  ]
+}
