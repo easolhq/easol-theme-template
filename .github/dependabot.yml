@@ -1,11 +1,11 @@
 # Please see the documentation for all configuration options:
- # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
- version: 2
- updates:
+version: 2
+updates:
 
-   - package-ecosystem: "github-actions"
-     directory: "/"
-     schedule:
-       # Check for updates to GitHub Actions every weekday
-       interval: "daily"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      # Check for updates to GitHub Actions every weekday
+      interval: "daily"
