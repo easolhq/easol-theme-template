@@ -1,0 +1,2 @@
+# Easol Theme Template
+---
