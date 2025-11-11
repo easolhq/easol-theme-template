@@ -1,0 +1,10 @@
+{
+  "name": "Placeholder",
+  "category": "Placeholder",
+  "blocks": [
+    {
+      "key": "placeholder_block",
+      "attributes": {}
+    }
+  ]
+}
